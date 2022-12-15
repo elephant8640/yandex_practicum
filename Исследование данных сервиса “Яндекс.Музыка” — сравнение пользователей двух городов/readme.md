@@ -23,5 +23,5 @@
 
 **Навыки и инструменты**
 
-Python
-Pandas
+* Python
+* Pandas
